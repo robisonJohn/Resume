@@ -1,0 +1,20 @@
+{
+    "name": "John Robison",
+    "github": "https://github.com/robisonJohn",
+    "email": "robisonj8680@gmail.com",
+    "resume": "https://docs.google.com/document/d/1osXgwPBERwzRIVp0sANjsLnpc6DGpF6w1oz5Q2MDFGM/edit?usp=sharing",
+    "proficientTechnologies": [
+        "Python",
+        "Django",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Git"
+    ],
+    "otherSkills": [
+        "Mathematical Modeling",
+        "Statistical Analysis",
+        "Economic Analysis",
+        "Blockchain Technology"
+    ]
+}
